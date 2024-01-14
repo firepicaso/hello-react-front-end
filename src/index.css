@@ -1,0 +1,12 @@
+* {
+  text-align: center;
+}
+
+.greetings {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 4rem;
+  height: 100vh;
+  color: rgb(0, 88, 118);
+}
